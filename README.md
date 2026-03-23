@@ -36,6 +36,7 @@
 - [InSiDE CARM](https://github.com/carm-es/inside) - Instalación de InSiDE (Infraestructura y Sistemas de Documentación Electrónica) de la CARM.
 - [REST-LDAP CARM](https://github.com/carm-es/rest-ldap) - Aplicación web para consulta de usuarios en OpenLDAP mediante servicio REST para la CARM.
 - [SICI CARM](https://github.com/ffis/sici) - Sistema Integrado de Control de Indicadores para el seguimiento de cartas de servicios de la CARM.
+- [Transparencia CARM](https://github.com/marsolmos/transparencia-carm) - Herramienta de transparencia para contratos públicos del Gobierno de la Región de Murcia.
 
 ## Cultura y Patrimonio
 
@@ -51,6 +52,7 @@
 
 ## Deportes
 
+- [App Contador Acciones Real Murcia](https://github.com/KikeOnRails/AppContadorAccionesRealMurcia) - Contador de acciones del Real Murcia CF.
 - [Checklist Real Murcia](https://github.com/Renilla/checklist-real-murcia) - Aplicación web de checklist de cromos del Real Murcia CF.
 - [Contador Abonados Real Murcia](https://github.com/ManuelFranco/contadorAbonados) - Scraper visual de la cuenta de abonados del Real Murcia CF.
 
@@ -82,13 +84,18 @@
 
 ## Universidad e Investigación
 
+- [Charla MCP](https://github.com/CenticMurcia/charla-mcp) - Material de la charla sobre Model Context Protocol impartida por CenticMurcia.
+- [Curso Ciencia de Datos](https://github.com/CenticMurcia/curso-ciencia-datos) - Curso de ciencia de datos del Centro Tecnológico de las TIC de la Región de Murcia.
+- [Data Science Python UPCT](https://github.com/mkesslerct/data_science_Python) - Curso de introducción a Data Science con Python de la UPCT.
 - [docxtojats-pipeline](https://github.com/editum/docxtojats-pipeline) - Conversión de documentos DOC/DOCX a JATS XML con automarcado avanzado para EDITUM de la Universidad de Murcia.
 - [HÉRCULES Sync](https://github.com/weso/hercules-sync) - Sincronización de ontologías con Wikibase para el proyecto HÉRCULES de infraestructura semántica de la Universidad de Murcia.
 - [JATSWizard](https://github.com/editum/JATSWizard) - Plugin OJS de asistente guiado de conversión de DOCX a JATS XML para EDITUM de la Universidad de Murcia.
+- [NLP Consentimientos Médicos](https://github.com/CenticMurcia/nlp-consentimientos-medicos) - Análisis de entendibilidad de consentimientos médicos mediante NLP por CenticMurcia.
 - [Plantilla TFG FIUM](https://github.com/AnaAguilarI/Plantilla-TFG-FIUM) - Plantilla LaTeX actualizada para trabajos de fin de grado de la Facultad de Informática de la UMU.
 - [Sierra Minera Spatial Dataset](https://github.com/TabErrans/sierra-minera-spatial-dataset) - Pipeline reproducible de integración de datos espaciales de suelos de la Sierra Minera de Cartagena-La Unión.
 - [SmartEcoRutas](https://github.com/ppavon/smartEcoRutas) - Marco de optimización algorítmica de rutas de recogida de residuos urbanos en Cartagena para el Reto-UPCT.
 - [The Explorer](https://github.com/javics2002/TheExplorer) - Videojuego educativo premiado sobre las pinturas rupestres de la Cañaica del Calar en Moratalla.
+- [U-Schema](https://github.com/modelum/uschema) - Metamodelo unificado para integración de datos del grupo Modelum de la Universidad de Murcia.
 
 ## Insignia
 

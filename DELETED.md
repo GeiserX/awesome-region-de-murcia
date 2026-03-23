@@ -13,11 +13,3 @@ Repos que fueron retirados de la lista porque fueron archivados, deprecados o ya
 ## Deprecados
 
 ## No cumplen criterios
-
-- [AppContadorAccionesRealMurcia](https://github.com/KikeOnRails/AppContadorAccionesRealMurcia) - Contador de acciones del Real Murcia. Sin actividad desde 2022.
-- [charla-mcp](https://github.com/CenticMurcia/charla-mcp) - Material de charla sobre MCP de CenticMurcia. Contenido genérico, no específico de Murcia.
-- [curso-ciencia-datos](https://github.com/CenticMurcia/curso-ciencia-datos) - Curso de Ciencia de Datos de CenticMurcia. Contenido genérico, sin actividad desde 2022.
-- [data_science_Python](https://github.com/mkesslerct/data_science_Python) - Curso de Data Science en UPCT. Contenido genérico, no específico de Murcia.
-- [nlp-consentimientos-medicos](https://github.com/CenticMurcia/nlp-consentimientos-medicos) - NLP para consentimientos médicos de CenticMurcia. Contenido genérico, sin actividad desde 2022.
-- [transparencia-carm](https://github.com/marsolmos/transparencia-carm) - Herramienta de transparencia de contratos públicos de la CARM. Sin actividad desde 2022.
-- [uschema](https://github.com/modelum/uschema) - Metamodelo unificado de datos del grupo Modelum (UMU). Contenido genérico, no específico de Murcia.
