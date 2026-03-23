@@ -9,8 +9,8 @@
     </linearGradient>
     <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#AD1519" stop-opacity="0.08"/>
-      <stop offset="50%" stop-color="#005AA7" stop-opacity="0.05"/>
-      <stop offset="100%" stop-color="#F1BF00" stop-opacity="0.0"/>
+      <stop offset="50%" stop-color="#AD1519" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#F1BF00" stop-opacity="0.06"/>
     </linearGradient>
     <mask id="fade-left">
       <linearGradient id="fl" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -53,30 +53,26 @@
       <line x1="0" y1="120" x2="800" y2="120"/><line x1="0" y1="160" x2="800" y2="160"/>
     </g>
 
-    <!-- Murcia flag strips on left (red-blue-gold) -->
+    <!-- Murcia flag strips on left (carmesí) -->
     <g mask="url(#fade-left)" opacity="0.55">
-      <rect x="0" y="0" width="90" height="70" fill="#AD1519"/>
-      <rect x="0" y="70" width="90" height="60" fill="#005AA7"/>
-      <rect x="0" y="130" width="90" height="70" fill="#F1BF00"/>
+      <rect x="0" y="0" width="90" height="200" fill="#AD1519"/>
     </g>
 
-    <!-- Murcia flag strips on right (red-blue-gold) -->
+    <!-- Murcia flag strips on right (carmesí) -->
     <g mask="url(#fade-right)" opacity="0.55">
-      <rect x="710" y="0" width="90" height="70" fill="#AD1519"/>
-      <rect x="710" y="70" width="90" height="60" fill="#005AA7"/>
-      <rect x="710" y="130" width="90" height="70" fill="#F1BF00"/>
+      <rect x="710" y="0" width="90" height="200" fill="#AD1519"/>
     </g>
 
-    <!-- Blurred color orbs -->
+    <!-- Blurred color orbs (red carmesí + gold) -->
     <ellipse cx="120" cy="160" rx="180" ry="120" fill="#AD1519" opacity="0.18" filter="url(#blur1)"/>
     <ellipse cx="680" cy="40" rx="200" ry="130" fill="#F1BF00" opacity="0.12" filter="url(#blur1)"/>
-    <ellipse cx="400" cy="100" rx="150" ry="100" fill="#005AA7" opacity="0.08" filter="url(#blur2)"/>
-    <ellipse cx="500" cy="180" rx="120" ry="80" fill="#AD1519" opacity="0.08" filter="url(#blur2)"/>
+    <ellipse cx="400" cy="100" rx="150" ry="100" fill="#AD1519" opacity="0.06" filter="url(#blur2)"/>
+    <ellipse cx="500" cy="180" rx="120" ry="80" fill="#F1BF00" opacity="0.06" filter="url(#blur2)"/>
 
     <!-- Diagonal accent lines -->
     <line x1="580" y1="0" x2="800" y2="130" stroke="#F1BF00" stroke-width="1" opacity="0.12"/>
     <line x1="600" y1="0" x2="800" y2="118" stroke="#AD1519" stroke-width="1" opacity="0.15"/>
-    <line x1="0" y1="140" x2="220" y2="200" stroke="#005AA7" stroke-width="1" opacity="0.12"/>
+    <line x1="0" y1="140" x2="220" y2="200" stroke="#AD1519" stroke-width="1" opacity="0.12"/>
     <line x1="0" y1="155" x2="190" y2="200" stroke="#F1BF00" stroke-width="1" opacity="0.1"/>
 
     <!-- Central glow -->
@@ -85,7 +81,7 @@
     <!-- Small decorative dots -->
     <circle cx="90" cy="30" r="1.5" fill="#F1BF00" opacity="0.3"/>
     <circle cx="710" cy="170" r="1.5" fill="#AD1519" opacity="0.4"/>
-    <circle cx="200" cy="170" r="1" fill="#005AA7" opacity="0.2"/>
+    <circle cx="200" cy="170" r="1" fill="#F1BF00" opacity="0.2"/>
     <circle cx="650" cy="25" r="1" fill="#F1BF00" opacity="0.25"/>
 
     <!-- Title -->
@@ -97,19 +93,20 @@
     <!-- Subtitle -->
     <text x="400" y="126" text-anchor="middle" font-family="'SF Pro Display', 'Inter', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="rgba(255,255,255,0.55)" font-weight="300" letter-spacing="3">SOFTWARE OPEN SOURCE PARA LA REGIÓN DE MURCIA</text>
 
-    <!-- Crown dots (7 golden dots representing the 7 crowns) -->
-    <g opacity="0.4">
-      <circle cx="346" cy="145" r="2" fill="#F1BF00"/>
-      <circle cx="364" cy="145" r="2" fill="#F1BF00"/>
-      <circle cx="382" cy="145" r="2" fill="#F1BF00"/>
-      <circle cx="400" cy="145" r="2" fill="#F1BF00"/>
-      <circle cx="418" cy="145" r="2" fill="#F1BF00"/>
-      <circle cx="436" cy="145" r="2" fill="#F1BF00"/>
-      <circle cx="454" cy="145" r="2" fill="#F1BF00"/>
+    <!-- 7 crowns of Murcia: 4 top, 3 bottom -->
+    <g opacity="0.45" fill="#F1BF00">
+      <!-- Top row: 4 crowns -->
+      <circle cx="370" cy="142" r="2.5"/>
+      <circle cx="390" cy="142" r="2.5"/>
+      <circle cx="410" cy="142" r="2.5"/>
+      <circle cx="430" cy="142" r="2.5"/>
+      <!-- Bottom row: 3 crowns -->
+      <circle cx="380" cy="158" r="2.5"/>
+      <circle cx="400" cy="158" r="2.5"/>
+      <circle cx="420" cy="158" r="2.5"/>
     </g>
 
-    <!-- Top border accent -->
+    <!-- Top border accent (carmesí only) -->
     <rect width="800" height="2" fill="#AD1519" opacity="0.6"/>
-    <rect x="0" y="0" width="400" height="2" fill="#005AA7" opacity="0.4"/>
   </g>
 </svg>
