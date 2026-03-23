@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <!-- 11: Full Coat - Centered shield with 7 crowns prominent, castles in bordure -->
+  <defs>
+    <clipPath id="r"><rect width="800" height="200" rx="16"/></clipPath>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/><stop offset="100%" stop-color="#14141f"/>
+    </linearGradient>
+    <filter id="b1"><feGaussianBlur stdDeviation="40"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="800" height="200" fill="url(#bg)"/>
+    <ellipse cx="400" cy="100" rx="250" ry="150" fill="#AD1519" opacity="0.08" filter="url(#b1)"/>
+    <!-- Large central shield -->
+    <g transform="translate(355,10) scale(1.1)" fill="none" stroke="#F1BF00" stroke-width="1.5" opacity="0.18">
+      <path d="M0,12 Q0,0 12,0 H68 Q80,0 80,12 V70 Q80,120 40,150 Q0,120 0,70 Z"/>
+    </g>
+    <!-- Shield glow -->
+    <g transform="translate(355,10) scale(1.1)" fill="#F1BF00" opacity="0.02" filter="url(#glow)">
+      <path d="M0,12 Q0,0 12,0 H68 Q80,0 80,12 V70 Q80,120 40,150 Q0,120 0,70 Z"/>
+    </g>
+    <!-- 7 crowns inside shield 4+3 -->
+    <g fill="#F1BF00" opacity="0.2" transform="translate(355,10) scale(1.1)">
+      <g transform="translate(12,30)"><path d="M-4,3h8v2h-8z M-4,3l2-5 2,3 2-3 2,5z"/></g>
+      <g transform="translate(30,30)"><path d="M-4,3h8v2h-8z M-4,3l2-5 2,3 2-3 2,5z"/></g>
+      <g transform="translate(50,30)"><path d="M-4,3h8v2h-8z M-4,3l2-5 2,3 2-3 2,5z"/></g>
+      <g transform="translate(68,30)"><path d="M-4,3h8v2h-8z M-4,3l2-5 2,3 2-3 2,5z"/></g>
+      <g transform="translate(20,55)"><path d="M-4,3h8v2h-8z M-4,3l2-5 2,3 2-3 2,5z"/></g>
+      <g transform="translate(40,55)"><path d="M-4,3h8v2h-8z M-4,3l2-5 2,3 2-3 2,5z"/></g>
+      <g transform="translate(60,55)"><path d="M-4,3h8v2h-8z M-4,3l2-5 2,3 2-3 2,5z"/></g>
+    </g>
+    <rect width="800" height="2" fill="#AD1519" opacity="0.6"/>
+    <text x="400" y="82" text-anchor="middle" font-family="system-ui,sans-serif" font-size="36" fill="#fff" font-weight="700" letter-spacing="1">awesome-region-de-murcia</text>
+    <rect x="280" y="93" width="240" height="2" rx="1" fill="#AD1519" opacity="0.5"/>
+    <text x="400" y="123" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" font-weight="300" letter-spacing="3">SOFTWARE OPEN SOURCE PARA LA REGION DE MURCIA</text>
+  </g>
+</svg>

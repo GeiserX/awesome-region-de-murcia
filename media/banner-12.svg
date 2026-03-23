@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <!-- 12: Royal Red - Rich carmesi gradient with crown flanking title -->
+  <defs>
+    <clipPath id="r"><rect width="800" height="200" rx="16"/></clipPath>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#12050a"/><stop offset="50%" stop-color="#1a0810"/>
+      <stop offset="100%" stop-color="#0f0a0f"/>
+    </linearGradient>
+    <filter id="b1"><feGaussianBlur stdDeviation="40"/></filter>
+    <filter id="b2"><feGaussianBlur stdDeviation="25"/></filter>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="800" height="200" fill="url(#bg)"/>
+    <!-- Rich carmesi atmosphere -->
+    <ellipse cx="200" cy="100" rx="300" ry="200" fill="#AD1519" opacity="0.12" filter="url(#b1)"/>
+    <ellipse cx="600" cy="100" rx="300" ry="200" fill="#AD1519" opacity="0.08" filter="url(#b1)"/>
+    <ellipse cx="400" cy="50" rx="200" ry="100" fill="#F1BF00" opacity="0.04" filter="url(#b1)"/>
+    <!-- Crown left of title -->
+    <g transform="translate(190,66)" fill="#F1BF00" opacity="0.3">
+      <path d="M0,12h28v5h-28z M0,12l3.5-9 3.5,5.5 3.5-7 3.5,5.5 3.5-7 3.5,5.5 3.5-5.5 3.5,9z"/>
+    </g>
+    <!-- Crown right of title -->
+    <g transform="translate(582,66)" fill="#F1BF00" opacity="0.3">
+      <path d="M0,12h28v5h-28z M0,12l3.5-9 3.5,5.5 3.5-7 3.5,5.5 3.5-7 3.5,5.5 3.5-5.5 3.5,9z"/>
+    </g>
+    <rect width="800" height="2" fill="#AD1519" opacity="0.7"/>
+    <rect y="198" width="800" height="2" fill="#AD1519" opacity="0.3"/>
+    <text x="400" y="82" text-anchor="middle" font-family="system-ui,sans-serif" font-size="36" fill="#fff" font-weight="700" letter-spacing="1">awesome-region-de-murcia</text>
+    <rect x="280" y="93" width="240" height="2" rx="1" fill="#F1BF00" opacity="0.35"/>
+    <text x="400" y="123" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" font-weight="300" letter-spacing="3">SOFTWARE OPEN SOURCE PARA LA REGION DE MURCIA</text>
+    <!-- 7 crowns 4+3 -->
+    <g opacity="0.4" fill="#F1BF00" transform="translate(400,152)">
+      <circle cx="-27" cy="0" r="2.5"/><circle cx="-9" cy="0" r="2.5"/>
+      <circle cx="9" cy="0" r="2.5"/><circle cx="27" cy="0" r="2.5"/>
+      <circle cx="-18" cy="14" r="2.5"/><circle cx="0" cy="14" r="2.5"/><circle cx="18" cy="14" r="2.5"/>
+    </g>
+  </g>
+</svg>

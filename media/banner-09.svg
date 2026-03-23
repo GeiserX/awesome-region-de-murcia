@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <!-- 09: Large Crown - Single prominent crown above title -->
+  <defs>
+    <clipPath id="r"><rect width="800" height="200" rx="16"/></clipPath>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/><stop offset="100%" stop-color="#14141f"/>
+    </linearGradient>
+    <filter id="b1"><feGaussianBlur stdDeviation="40"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="800" height="200" fill="url(#bg)"/>
+    <ellipse cx="400" cy="60" rx="250" ry="150" fill="#AD1519" opacity="0.08" filter="url(#b1)"/>
+    <ellipse cx="400" cy="60" rx="150" ry="80" fill="#F1BF00" opacity="0.04" filter="url(#b1)"/>
+    <rect width="800" height="2" fill="#AD1519" opacity="0.6"/>
+    <!-- Large crown above title -->
+    <g transform="translate(374,15)" fill="#F1BF00" opacity="0.35">
+      <path d="M0,22h52v8h-52z M0,22l6.5-16 6.5,10 6.5-14 6.5,10 6.5-14 6.5,10 6.5-10 6.5,16z"/>
+      <circle cx="6.5" cy="4" r="2"/><circle cx="19.5" cy="0" r="2"/>
+      <circle cx="32.5" cy="0" r="2"/><circle cx="45.5" cy="4" r="2"/>
+      <circle cx="26" cy="-2" r="2.5"/>
+    </g>
+    <!-- Crown glow -->
+    <g transform="translate(374,15)" fill="#F1BF00" opacity="0.08" filter="url(#glow)">
+      <path d="M0,22h52v8h-52z M0,22l6.5-16 6.5,10 6.5-14 6.5,10 6.5-14 6.5,10 6.5-10 6.5,16z"/>
+    </g>
+    <text x="400" y="82" text-anchor="middle" font-family="system-ui,sans-serif" font-size="36" fill="#fff" font-weight="700" letter-spacing="1">awesome-region-de-murcia</text>
+    <rect x="280" y="93" width="240" height="2" rx="1" fill="#AD1519" opacity="0.5"/>
+    <text x="400" y="123" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" font-weight="300" letter-spacing="3">SOFTWARE OPEN SOURCE PARA LA REGION DE MURCIA</text>
+    <!-- 7 small crowns 4+3 -->
+    <g opacity="0.4" fill="#F1BF00" transform="translate(400,152)">
+      <circle cx="-27" cy="0" r="2"/><circle cx="-9" cy="0" r="2"/>
+      <circle cx="9" cy="0" r="2"/><circle cx="27" cy="0" r="2"/>
+      <circle cx="-18" cy="14" r="2"/><circle cx="0" cy="14" r="2"/><circle cx="18" cy="14" r="2"/>
+    </g>
+  </g>
+</svg>

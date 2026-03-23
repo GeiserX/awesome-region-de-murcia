@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <!-- 01: Crown Row - 7 stylized crowns below title -->
+  <defs>
+    <clipPath id="r"><rect width="800" height="200" rx="16"/></clipPath>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/><stop offset="100%" stop-color="#14141f"/>
+    </linearGradient>
+    <filter id="b1"><feGaussianBlur stdDeviation="40"/></filter>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="800" height="200" fill="url(#bg)"/>
+    <ellipse cx="150" cy="180" rx="200" ry="120" fill="#AD1519" opacity="0.15" filter="url(#b1)"/>
+    <ellipse cx="650" cy="20" rx="200" ry="120" fill="#F1BF00" opacity="0.1" filter="url(#b1)"/>
+    <rect width="800" height="2" fill="#AD1519" opacity="0.6"/>
+    <text x="400" y="75" text-anchor="middle" font-family="system-ui,sans-serif" font-size="36" fill="#fff" font-weight="700" letter-spacing="1">awesome-region-de-murcia</text>
+    <rect x="280" y="86" width="240" height="2" rx="1" fill="#AD1519" opacity="0.5"/>
+    <text x="400" y="116" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" font-weight="300" letter-spacing="3">SOFTWARE OPEN SOURCE PARA LA REGION DE MURCIA</text>
+    <!-- 7 crowns: stylized 3-point crown shapes, 4 top + 3 bottom -->
+    <g fill="#F1BF00" opacity="0.5" transform="translate(400,155)">
+      <g transform="translate(-54,0)"><path d="M-6,4h12v3h-12z M-6,4l3-6 3,4 3-4 3,6z"/></g>
+      <g transform="translate(-18,0)"><path d="M-6,4h12v3h-12z M-6,4l3-6 3,4 3-4 3,6z"/></g>
+      <g transform="translate(18,0)"><path d="M-6,4h12v3h-12z M-6,4l3-6 3,4 3-4 3,6z"/></g>
+      <g transform="translate(54,0)"><path d="M-6,4h12v3h-12z M-6,4l3-6 3,4 3-4 3,6z"/></g>
+      <g transform="translate(-36,18)"><path d="M-6,4h12v3h-12z M-6,4l3-6 3,4 3-4 3,6z"/></g>
+      <g transform="translate(0,18)"><path d="M-6,4h12v3h-12z M-6,4l3-6 3,4 3-4 3,6z"/></g>
+      <g transform="translate(36,18)"><path d="M-6,4h12v3h-12z M-6,4l3-6 3,4 3-4 3,6z"/></g>
+    </g>
+  </g>
+</svg>

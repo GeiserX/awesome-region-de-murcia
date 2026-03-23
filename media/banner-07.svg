@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <!-- 07: Tower Skyline - Castle tower silhouettes along the bottom edge -->
+  <defs>
+    <clipPath id="r"><rect width="800" height="200" rx="16"/></clipPath>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/><stop offset="100%" stop-color="#14141f"/>
+    </linearGradient>
+    <filter id="b1"><feGaussianBlur stdDeviation="40"/></filter>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="800" height="200" fill="url(#bg)"/>
+    <ellipse cx="200" cy="200" rx="250" ry="150" fill="#AD1519" opacity="0.12" filter="url(#b1)"/>
+    <ellipse cx="600" cy="200" rx="250" ry="150" fill="#AD1519" opacity="0.08" filter="url(#b1)"/>
+    <!-- Castle skyline at bottom -->
+    <g fill="#AD1519" opacity="0.15">
+      <!-- Left castle -->
+      <rect x="30" y="155" width="15" height="45"/><rect x="50" y="140" width="20" height="60"/>
+      <rect x="75" y="155" width="15" height="45"/>
+      <rect x="30" y="148" width="5" height="7"/><rect x="40" y="148" width="5" height="7"/>
+      <rect x="50" y="133" width="7" height="7"/><rect x="63" y="133" width="7" height="7"/>
+      <rect x="75" y="148" width="5" height="7"/><rect x="85" y="148" width="5" height="7"/>
+      <rect x="15" y="170" width="90" height="30"/>
+      <!-- Right castle -->
+      <rect x="685" y="155" width="15" height="45"/><rect x="705" y="140" width="20" height="60"/>
+      <rect x="730" y="155" width="15" height="45"/>
+      <rect x="685" y="148" width="5" height="7"/><rect x="695" y="148" width="5" height="7"/>
+      <rect x="705" y="133" width="7" height="7"/><rect x="718" y="133" width="7" height="7"/>
+      <rect x="730" y="148" width="5" height="7"/><rect x="740" y="148" width="5" height="7"/>
+      <rect x="670" y="170" width="90" height="30"/>
+    </g>
+    <!-- Golden line at bottom -->
+    <rect y="195" width="800" height="1" fill="#F1BF00" opacity="0.2"/>
+    <rect width="800" height="2" fill="#AD1519" opacity="0.6"/>
+    <text x="400" y="75" text-anchor="middle" font-family="system-ui,sans-serif" font-size="36" fill="#fff" font-weight="700" letter-spacing="1">awesome-region-de-murcia</text>
+    <rect x="280" y="86" width="240" height="2" rx="1" fill="#AD1519" opacity="0.5"/>
+    <text x="400" y="116" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" font-weight="300" letter-spacing="3">SOFTWARE OPEN SOURCE PARA LA REGION DE MURCIA</text>
+    <g opacity="0.4" fill="#F1BF00" transform="translate(400,145)">
+      <circle cx="-27" cy="0" r="2.5"/><circle cx="-9" cy="0" r="2.5"/>
+      <circle cx="9" cy="0" r="2.5"/><circle cx="27" cy="0" r="2.5"/>
+      <circle cx="-18" cy="14" r="2.5"/><circle cx="0" cy="14" r="2.5"/><circle cx="18" cy="14" r="2.5"/>
+    </g>
+  </g>
+</svg>

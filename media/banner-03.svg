@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <!-- 03: Heraldic Shield - Coat of arms shield outline -->
+  <defs>
+    <clipPath id="r"><rect width="800" height="200" rx="16"/></clipPath>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/><stop offset="100%" stop-color="#14141f"/>
+    </linearGradient>
+    <filter id="b1"><feGaussianBlur stdDeviation="40"/></filter>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="800" height="200" fill="url(#bg)"/>
+    <ellipse cx="120" cy="160" rx="180" ry="120" fill="#AD1519" opacity="0.15" filter="url(#b1)"/>
+    <ellipse cx="680" cy="40" rx="200" ry="130" fill="#F1BF00" opacity="0.08" filter="url(#b1)"/>
+    <!-- Shield on left -->
+    <g transform="translate(80,25) scale(0.9)" fill="none" stroke="#F1BF00" stroke-width="2" opacity="0.25">
+      <path d="M0,10 Q0,0 10,0 H70 Q80,0 80,10 V60 Q80,100 40,120 Q0,100 0,60 Z"/>
+      <!-- 7 crowns inside shield -->
+      <g fill="#F1BF00" stroke="none">
+        <circle cx="20" cy="35" r="3"/><circle cx="40" cy="35" r="3"/>
+        <circle cx="60" cy="35" r="3"/><circle cx="30" cy="55" r="3"/>
+        <circle cx="50" cy="55" r="3"/><circle cx="20" cy="75" r="3"/>
+        <circle cx="60" cy="75" r="3"/>
+      </g>
+    </g>
+    <!-- Shield on right (mirrored) -->
+    <g transform="translate(640,25) scale(0.9)" fill="none" stroke="#F1BF00" stroke-width="2" opacity="0.25">
+      <path d="M0,10 Q0,0 10,0 H70 Q80,0 80,10 V60 Q80,100 40,120 Q0,100 0,60 Z"/>
+      <g fill="#F1BF00" stroke="none">
+        <circle cx="20" cy="35" r="3"/><circle cx="40" cy="35" r="3"/>
+        <circle cx="60" cy="35" r="3"/><circle cx="30" cy="55" r="3"/>
+        <circle cx="50" cy="55" r="3"/><circle cx="20" cy="75" r="3"/>
+        <circle cx="60" cy="75" r="3"/>
+      </g>
+    </g>
+    <rect width="800" height="2" fill="#AD1519" opacity="0.6"/>
+    <text x="400" y="82" text-anchor="middle" font-family="system-ui,sans-serif" font-size="36" fill="#fff" font-weight="700" letter-spacing="1">awesome-region-de-murcia</text>
+    <rect x="280" y="93" width="240" height="2" rx="1" fill="#AD1519" opacity="0.5"/>
+    <text x="400" y="123" text-anchor="middle" font-family="system-ui,sans-serif" font-size="13" fill="rgba(255,255,255,0.5)" font-weight="300" letter-spacing="3">SOFTWARE OPEN SOURCE PARA LA REGION DE MURCIA</text>
+    <g opacity="0.4" fill="#F1BF00" transform="translate(400,152)">
+      <circle cx="-27" cy="0" r="2"/><circle cx="-9" cy="0" r="2"/>
+      <circle cx="9" cy="0" r="2"/><circle cx="27" cy="0" r="2"/>
+      <circle cx="-18" cy="14" r="2"/><circle cx="0" cy="14" r="2"/><circle cx="18" cy="14" r="2"/>
+    </g>
+  </g>
+</svg>
