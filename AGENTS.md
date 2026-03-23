@@ -129,5 +129,13 @@ No se aceptan proyectos relacionados con: pornografía, contenido NSFW, lotería
 - Buscar también en GitLab y Bitbucket para instituciones que no usan GitHub.
 - **Rate limits**: con 14 agentes paralelos, el API de búsqueda de GitHub (30 req/min) se agota inmediatamente. Estrategia efectiva: usar `gh api repos/...` (core API, 5000/h) para verificar repos conocidos, y WebFetch o curl desde distintas IPs (watchtower, geiserback) para búsquedas.
 - **Cartagena**: la mayoría de resultados de búsqueda son sobre Cartagena de Indias (Colombia). Filtrar siempre.
-- Repos de deportes murcianos (Real Murcia, FC Cartagena, ElPozo): no se encontró nada significativo en GitHub.
+- Repos de deportes de Real Murcia: `ManuelFranco/contadorAbonados` (scraper abonados, activo), `Renilla/checklist-real-murcia` (cromos, activo). FC Cartagena y ElPozo sin presencia.
 - GitLab no tiene repos significativos sobre la Región de Murcia.
+- **CenticMurcia**: Centro Tecnológico de las TIC de la Región de Murcia. Tiene repos pero son cursos/charlas genéricas (no específicas de Murcia). curso-ciencia-datos (59★) y charla-mcp (11★) descartados por contenido genérico.
+- **MurciaLab**: Laboratorio de innovación del Ayuntamiento de Murcia. Repos útiles: ICA_Diario_2025 (calidad del aire CARM), seguimiento (propuestas urbanas), PMP (proyectos anunciados).
+- **editum**: Servicio de Publicaciones de la UMU. JATSWizard y docxtojats-pipeline son herramientas activas y específicas de EDITUM.
+- **SMARTLAGOON**: Proyecto H2020 con boya de monitorización ambiental en el Mar Menor. SMLG_Buoy_Data con datos de alta frecuencia.
+- **pedrosc1967/diccionario_panocho**: Diccionario del panocho (dialecto de la Huerta de Murcia). Sin actividad desde 2021 pero es proyecto estable/completo. 3★.
+- **TabErrans/sierra-minera-spatial-dataset**: Datos geoquímicos de la Sierra Minera de Cartagena-La Unión. Muy reciente, con DOI en Zenodo.
+- **aconesac/molino-lo-negrete**: Sitio web del patrimonio del Molino de Viento Lo Negrete en Cartagena. Proyecto de restauración catalogado en el Plan Director de Molinos de Viento de la Región de Murcia.
+- **SoniaRuiz/marine-forecast**: Previsión marítima para La Manga y Cartagena (también Torrevieja, que es Alicante — incluido porque 2 de 3 zonas son murcianas).
