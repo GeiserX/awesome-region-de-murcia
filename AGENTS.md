@@ -69,6 +69,8 @@ Lista curada de software open source que da **soporte específico a la Región d
 - Máximo una línea por entrada.
 - Validar con awesome-lint: `npx awesome-lint`.
 - Entradas en **orden alfabético** dentro de cada categoría.
+- Categorías en **orden alfabético** en el índice y en el cuerpo del documento.
+- Entradas en `DELETED.md` también en **orden alfabético** dentro de cada sección.
 
 ## Verificación antes de añadir
 
@@ -115,6 +117,17 @@ No se aceptan proyectos relacionados con: pornografía, contenido NSFW, lotería
 
 - Las búsquedas en GitHub con `"region de murcia"` dan resultados muy limitados. Es más efectivo buscar por instituciones concretas (CARM, UMU, UPCT, UCAM, CHS, IMIDA) y por ciudades principales (Murcia, Cartagena, Lorca).
 - Muchos repos de universidades murcianas son ejercicios de clase sin utilidad real — filtrar con criterio.
-- La CARM tiene organización GitHub `carm-es` con repos de utilidad real.
+- La CARM tiene organización GitHub `carm-es` con repos de utilidad real (también 4 archivados en DELETED.md).
+- `ffis` es una organización con el proyecto SICI CARM (dashboard de indicadores de cartas de servicios).
 - El IMIDA y la CHS no tienen presencia significativa en GitHub.
+- La UPCT tiene presencia mínima: `UPCTmakers` (repos de 2015, obsoletos), `ppavon/smartEcoRutas` (Reto-UPCT activo). La mayoría de repos con "UPCT" son ejercicios de clase.
+- La UMU tampoco tiene organización oficial en GitHub. Los repos son de estudiantes/profesores individuales. Excepciones útiles: `weso/hercules-sync` (HÉRCULES), `AnaAguilarI/Plantilla-TFG-FIUM`.
+- La UCAM no tiene presencia significativa en GitHub.
+- El topic `murcia` en GitHub tiene ~8 repos, la mayoría de bajo interés.
+- `MurciaDev` es una comunidad de devs murcianos con `murcia-tech-hub` (directorio de empresas tech) como repo más útil.
+- `KikeOnRails` tiene 2 apps de transporte en tiempo real para Murcia (buses urbanos y aeropuerto).
 - Buscar también en GitLab y Bitbucket para instituciones que no usan GitHub.
+- **Rate limits**: con 14 agentes paralelos, el API de búsqueda de GitHub (30 req/min) se agota inmediatamente. Estrategia efectiva: usar `gh api repos/...` (core API, 5000/h) para verificar repos conocidos, y WebFetch o curl desde distintas IPs (watchtower, geiserback) para búsquedas.
+- **Cartagena**: la mayoría de resultados de búsqueda son sobre Cartagena de Indias (Colombia). Filtrar siempre.
+- Repos de deportes murcianos (Real Murcia, FC Cartagena, ElPozo): no se encontró nada significativo en GitHub.
+- GitLab no tiene repos significativos sobre la Región de Murcia.

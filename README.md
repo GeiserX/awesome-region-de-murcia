@@ -12,54 +12,62 @@
 
 - [Administración y Gobierno Regional](#administración-y-gobierno-regional)
 - [Datos Abiertos y Estadísticas](#datos-abiertos-y-estadísticas)
-- [Universidad e Investigación](#universidad-e-investigación)
 - [Medio Ambiente y Mar Menor](#medio-ambiente-y-mar-menor)
-- [Agricultura y Huerta](#agricultura-y-huerta)
-- [Transporte y Movilidad](#transporte-y-movilidad)
-- [Turismo y Patrimonio](#turismo-y-patrimonio)
 - [Playas y Costa](#playas-y-costa)
-- [Cartografía y SIG](#cartografía-y-sig)
-- [Energía y Agua](#energía-y-agua)
-- [Salud](#salud)
-- [Educación](#educación)
-- [Deportes](#deportes)
-- [Empresa y Empleo](#empresa-y-empleo)
+- [Transporte y Movilidad](#transporte-y-movilidad)
+- [Universidad e Investigación](#universidad-e-investigación)
 
 <!--lint enable awesome-list-item-->
 
 ## Administración y Gobierno Regional
 
-- [CSV Storage CARM](https://github.com/carm-es/csvstorage) - Versión distribuible de CSV Storage para almacenamiento de documentos electrónicos.
-- [Guías CARM](https://github.com/carm-es/guias) - Guías para el desarrollo de aplicaciones en la Comunidad Autónoma de la Región de Murcia.
+- [BORM](https://github.com/carm-es/BORM) - Servicio web de actualización de firma para el Boletín Oficial de la Región de Murcia.
+- [Chatbot EOI](https://github.com/carm-es/chatbot-eoi) - Chatbot para la Escuela de la Administración Regional de Murcia basado en Python.
+- [CSV Storage CARM](https://github.com/carm-es/csvstorage) - Almacenamiento y gestión de códigos seguros de verificación de documentos electrónicos de la CARM.
+- [Eeutil-Firma](https://github.com/carm-es/eeutil-firma) - Servicio de firma electrónica de documentos para la administración electrónica de la CARM.
+- [Eeutil-Misc](https://github.com/carm-es/eeutil-misc) - Validación ENI de documentos y expedientes electrónicos para la CARM.
+- [Eeutil-Oper-Firma](https://github.com/carm-es/eeutil-oper-firma) - Operaciones de validación de firma y certificados electrónicos para la CARM.
+- [Eeutil-Shared](https://github.com/carm-es/eeutil-shared) - Módulos comunes compartidos por los componentes Eeutil de la Suite Inside de la CARM.
+- [Eeutil-Util-Firma](https://github.com/carm-es/eeutil-util-firma) - Generación de códigos seguros de verificación a partir de firmas electrónicas para la CARM.
+- [Eeutil-Vis-DocExp](https://github.com/carm-es/eeutil-vis-docexp) - Visualización de documentos y expedientes electrónicos en PDF para la CARM.
+- [Guías CARM](https://github.com/carm-es/guias) - Guías de desarrollo de aplicaciones, buenas prácticas y CI/CD para proyectos de la CARM.
 - [InSiDE CARM](https://github.com/carm-es/inside) - Instalación de InSiDE (Infraestructura y Sistemas de Documentación Electrónica) de la CARM.
+- [REST-LDAP CARM](https://github.com/carm-es/rest-ldap) - Aplicación web para consulta de usuarios en OpenLDAP mediante servicio REST para la CARM.
+- [SICI CARM](https://github.com/ffis/sici) - Sistema Integrado de Control de Indicadores para el seguimiento de cartas de servicios de la CARM.
 
 ## Datos Abiertos y Estadísticas
 
-## Universidad e Investigación
+- [Murcia Tech Hub](https://github.com/MurciaDev/murcia-tech-hub) - Directorio de empresas tecnológicas de la Región de Murcia con información sobre trabajo remoto y stacks.
 
 ## Medio Ambiente y Mar Menor
 
-## Agricultura y Huerta
-
-## Transporte y Movilidad
-
-## Turismo y Patrimonio
+- [AquaSense Cloud](https://github.com/juanfranciscomanzanares/aquasense-cloud) - Plataforma serverless en AWS para monitorización de temperatura del Mar Menor con alertas automáticas.
+- [Avistamientos Aves Mar Menor](https://github.com/lucyleia28/AvistamientosAvesMarMenor) - Plugin de web aumentada para Wikipedia que muestra avistamientos de aves en el Mar Menor y datos de calidad del agua.
+- [Eco3M-MAR_MENOR](https://github.com/ealvarez-s/Eco3M-MAR_MENOR) - Código y región para ejecutar el modelo biogeoquímico SYMPHONIE-Eco3M en la laguna del Mar Menor.
+- [Lost Frequencies Mar Menor](https://github.com/rubmoyanop/lost-frequencies-nasa-space-apps-challenge-2025) - Visor interactivo con datos Sentinel-1/2 para mapear contaminación y riesgo de inundación en el Mar Menor.
+- [LULCMAP Mar Menor Watershed](https://github.com/Paquicf/LULCMAP-MarMenor_Watershed) - Serie temporal de mapas de usos del suelo de la cuenca del Mar Menor (1988-2009) generados con imágenes Landsat.
+- [Mar Menor CHL](https://github.com/Antonio-MI/mar-menor-chl) - Mapeo y predicción de clorofila-a en el Mar Menor mediante imágenes Sentinel 2 y aprendizaje automático.
+- [Mar Menor Digital Twin](https://github.com/yuye188/MarMenorDigitalTwin) - Gemelo digital del Mar Menor desarrollado por la Universidad de Murcia con interoperabilidad FIWARE.
+- [Mar Menor FIWARE](https://github.com/mariete1223/MarMenor) - Sistema de consulta de datos de sensores del Mar Menor basado en FIWARE NGSI-LD con Orion Context Broker y Grafana.
+- [Mar Menor Health Predictor](https://github.com/allepuzz/Mar-Menor-Health-Predictor) - Predictor de calidad del agua del Mar Menor usando Random Forest y SARIMA para clorofila, nitratos y fosfatos.
+- [Mar Menor Status](https://github.com/NataliaPmd/mar_menor_status) - Panel de monitorización ecológica del Mar Menor con scrapers de fuentes oficiales como AEMET, IMIDA y UPCT.
+- [Ocean-CTD](https://github.com/Raniita/Ocean-CTD) - Dispositivo CTD oceanográfico diseñado y utilizado por el grupo de investigación del Mar Menor de la UPCT.
 
 ## Playas y Costa
 
 - [playasmurcia](https://github.com/jmlweb/playasmurcia) - Catálogo de playas de la Región de Murcia con datos abiertos de la CARM.
 
-## Cartografía y SIG
+## Transporte y Movilidad
 
-## Energía y Agua
+- [Aeropuerto Bus Realtime](https://github.com/KikeOnRails/aeropuerto-bus-realtime) - Horarios y geolocalización en tiempo real de la línea de autobús del Aeropuerto de Murcia.
+- [BUS Murcia](https://github.com/KikeOnRails/busmurcia-app) - Aplicación Android de horarios en tiempo real de los autobuses de Murcia y pedanías con seguimiento en OpenStreetMap.
 
-## Salud
+## Universidad e Investigación
 
-## Educación
-
-## Deportes
-
-## Empresa y Empleo
+- [HÉRCULES Sync](https://github.com/weso/hercules-sync) - Sincronización de ontologías con Wikibase para el proyecto HÉRCULES de infraestructura semántica de la Universidad de Murcia.
+- [Plantilla TFG FIUM](https://github.com/AnaAguilarI/Plantilla-TFG-FIUM) - Plantilla LaTeX actualizada para trabajos de fin de grado de la Facultad de Informática de la UMU.
+- [SmartEcoRutas](https://github.com/ppavon/smartEcoRutas) - Marco de optimización algorítmica de rutas de recogida de residuos urbanos en Cartagena para el Reto-UPCT.
+- [The Explorer](https://github.com/javics2002/TheExplorer) - Videojuego educativo premiado sobre las pinturas rupestres de la Cañaica del Calar en Moratalla.
 
 ## Contribuir
 
