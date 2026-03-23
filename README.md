@@ -6,48 +6,6 @@
   <p>Una selección de software open source que da soporte específico a la Región de Murcia, sus municipios, universidades e instituciones.</p>
 </h1>
 
-<!--lint disable no-html-->
-
-> **TEMPORAL - Elige un banner:** (se eliminará esta sección tras elegir)
-
-**01 - Crown Row** (7 coronas estilizadas 4+3)
-![banner-01](media/banner-01.svg)
-
-**02 - Castle Watermark** (castillo como marca de agua)
-![banner-02](media/banner-02.svg)
-
-**03 - Heraldic Shield** (escudos heráldicos con coronas)
-![banner-03](media/banner-03.svg)
-
-**04 - Carmesí Flood** (rojo carmesí desbordando desde los bordes)
-![banner-04](media/banner-04.svg)
-
-**05 - Crown Grid** (patrón repetido de coronas como textura)
-![banner-05](media/banner-05.svg)
-
-**06 - Golden Bordure** (marco dorado con castillos en esquinas)
-![banner-06](media/banner-06.svg)
-
-**07 - Tower Skyline** (silueta de torres en la parte inferior)
-![banner-07](media/banner-07.svg)
-
-**08 - Diagonal Carmesí** (franjas diagonales carmesí y oro)
-![banner-08](media/banner-08.svg)
-
-**09 - Large Crown** (corona grande sobre el título)
-![banner-09](media/banner-09.svg)
-
-**10 - Mar Menor Waves** (olas del Mar Menor en la base)
-![banner-10](media/banner-10.svg)
-
-**11 - Full Coat** (escudo central con 7 coronas)
-![banner-11](media/banner-11.svg)
-
-**12 - Royal Red** (atmósfera carmesí con coronas flanqueando)
-![banner-12](media/banner-12.svg)
-
-<!--lint enable no-html-->
-
 ## Contenido
 
 <!--lint disable awesome-list-item-->
