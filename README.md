@@ -97,40 +97,26 @@
 - [The Explorer](https://github.com/javics2002/TheExplorer) - Videojuego educativo premiado sobre las pinturas rupestres de la Cañaica del Calar en Moratalla.
 - [U-Schema](https://github.com/modelum/uschema) - Metamodelo unificado para integración de datos del grupo Modelum de la Universidad de Murcia.
 
-## Insignia
+**Insignia:** Si tu proyecto aparece en esta lista, puedes añadir una de estas insignias a tu README para que la gente lo sepa.
 
-Si tu proyecto aparece en esta lista, puedes añadir una de estas insignias a tu README para que la gente lo sepa.
+![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519) ![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519) ![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=plastic&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519) ![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)
 
-<!--lint disable double-link-->
-
-### Flat (por defecto)
-
-[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
-
+Flat (por defecto):
 ```markdown
 [![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
 ```
 
-### Flat Square
-
-[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
-
+Flat square:
 ```markdown
 [![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
 ```
 
-### Plastic
-
-[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=plastic&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
-
+Plastic:
 ```markdown
 [![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=plastic&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
 ```
 
-### For the Badge
-
-[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
-
+For the badge (large):
 ```markdown
 [![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
 ```
