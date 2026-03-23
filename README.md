@@ -101,16 +101,38 @@
 
 Si tu proyecto aparece en esta lista, puedes añadir una de estas insignias a tu README para que la gente lo sepa.
 
-[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiM5NjAwMTgiLz48dGV4dCB4PSIxMCIgeT0iMTAiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI0ZGRDcwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+4pmbPC90ZXh0Pjwvc3ZnPgo=&labelColor=960018)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
+<!--lint disable double-link-->
+
+### Flat (por defecto)
+
+[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
 
 ```markdown
-[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiM5NjAwMTgiLz48dGV4dCB4PSIxMCIgeT0iMTAiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI0ZGRDcwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+4pmbPC90ZXh0Pjwvc3ZnPgo=&labelColor=960018)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
+[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
 ```
 
-O en HTML:
+### Flat Square
 
-```html
-<a href="https://github.com/GeiserX/awesome-region-de-murcia#readme"><img src="https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiM5NjAwMTgiLz48dGV4dCB4PSIxMCIgeT0iMTAiIGZvbnQtc2l6ZT0iOSIgZmlsbD0iI0ZGRDcwMCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+4pmbPC90ZXh0Pjwvc3ZnPgo=&labelColor=960018" alt="listed on awesome-region-de-murcia"></a>
+[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
+
+```markdown
+[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
+```
+
+### Plastic
+
+[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=plastic&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
+
+```markdown
+[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=plastic&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
+```
+
+### For the Badge
+
+[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
+
+```markdown
+[![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDIwIDE0Ij48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMTQiIGZpbGw9IiNBRDE1MTkiLz48L3N2Zz4=&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
 ```
 
 ## Contribuir
