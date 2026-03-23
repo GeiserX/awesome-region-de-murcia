@@ -65,6 +65,7 @@
 - [Checklist CB Murcia](https://github.com/Renilla/checklist-cb-murcia) - Aplicación web de checklist de cromos del CB Murcia de baloncesto.
 - [Checklist Ciudad de Murcia](https://github.com/Renilla/checklist-ciudad-de-murcia) - Aplicación web de checklist de cromos del Ciudad de Murcia CF.
 - [Checklist Real Murcia](https://github.com/Renilla/checklist-real-murcia) - Aplicación web de checklist de cromos del Real Murcia CF.
+- [DataUCAM 2025-26](https://github.com/DJordanV/DataUCAM2025-26) - Exploración analítica de la temporada 2025/26 de UCAM Murcia en la Liga Endesa.
 - [Contador Abonados Real Murcia](https://github.com/ManuelFranco/contadorAbonados) - Scraper visual de la cuenta de abonados del Real Murcia CF.
 - [FBRM Analytics](https://github.com/vLorente/la-fede-teams-analytics) - Webscraping y análisis de datos de la Federación de Baloncesto de la Región de Murcia.
 
