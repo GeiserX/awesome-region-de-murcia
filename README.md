@@ -1,10 +1,10 @@
-<h1 align="center">
-  <a href="https://github.com/GeiserX/awesome-region-de-murcia"><img src="media/banner.svg" alt="Awesome Región de Murcia"></a>
+<div align="center">
+  <img src="media/banner.svg" alt="Awesome Región de Murcia">
   <br><br>
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
   <br><br>
   <p>Una selección de software open source que da soporte específico a la Región de Murcia, sus municipios, universidades e instituciones.</p>
-</h1>
+</div>
 
 ## Contenido
 
