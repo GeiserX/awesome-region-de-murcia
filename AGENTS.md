@@ -2,7 +2,7 @@
 
 ## Propósito
 
-Lista curada de software open source que da **soporte específico a la Región de Murcia** — su gobierno autonómico (CARM), ayuntamientos, universidades, empresas, infraestructuras y patrimonio. Todo el contenido en español. El foco es la Región de Murcia: el software debe dirigirse específicamente a esta comunidad autónoma o a sus municipios.
+Selección de software open source que da **soporte específico a la Región de Murcia** — su gobierno autonómico (CARM), ayuntamientos, universidades, empresas, infraestructuras y patrimonio. Todo el contenido en español. El foco es la Región de Murcia: el software debe dirigirse específicamente a esta comunidad autónoma o a sus municipios.
 
 ## Ámbito
 
@@ -99,19 +99,11 @@ Antes de incluir un repositorio, comprobar:
 
 No se aceptan proyectos relacionados con: pornografía, contenido NSFW, loterías o apuestas, religión, política partidista.
 
-## Promoción
+## Difusión
 
-- Notificar a los propietarios de repos abriendo un issue titulado «Listado en awesome-region-de-murcia» con un breve mensaje en español ofreciendo retirar si lo prefieren.
+- Notificar a los propietarios de repos abriendo un issue titulado «Listado en awesome-region-de-murcia» con un breve mensaje en español (tuteo) ofreciendo retirar si lo prefieren. Solo 1 issue por organización/usuario — no spamear repos del mismo propietario.
 - Publicar en comunidades murcianas (Reddit, foros de la UMU/UPCT, Telegram de devs murcianos) tras alcanzar masa crítica.
-- Enviar a sindresorhus/awesome tras 30 días desde la creación del repo.
-
-## Git
-
-- Identidad: `GeiserX` / `9169332+GeiserX@users.noreply.github.com`
-- No `Co-Authored-By` en commits.
-- No atribución a Claude/Anthropic en texto público.
-- Rama por defecto: `main`.
-- Siempre `unset GITHUB_TOKEN` antes de comandos `gh`.
+- Enviar PR a [sindresorhus/awesome](https://github.com/sindresorhus/awesome) tras 30 días desde la creación del repo.
 
 ## Aprendizajes
 

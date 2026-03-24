@@ -13,3 +13,7 @@ Repos que fueron retirados de la lista porque fueron archivados, deprecados o ya
 ## Deprecados
 
 ## No cumplen criterios
+
+- [Charla MCP](https://github.com/CenticMurcia/charla-mcp) - Material genérico sobre Model Context Protocol sin contenido específico de Murcia.
+- [Curso Ciencia de Datos](https://github.com/CenticMurcia/curso-ciencia-datos) - Curso genérico de ciencia de datos sin contenido específico de Murcia. Sin actividad desde 2022.
+- [NLP Consentimientos Médicos](https://github.com/CenticMurcia/nlp-consentimientos-medicos) - Técnica NLP genérica sin datos específicos del SMS ni hospitales murcianos. Sin actividad desde 2022.

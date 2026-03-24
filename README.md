@@ -65,8 +65,8 @@
 - [Checklist CB Murcia](https://github.com/Renilla/checklist-cb-murcia) - Aplicación web de checklist de cromos del CB Murcia de baloncesto.
 - [Checklist Ciudad de Murcia](https://github.com/Renilla/checklist-ciudad-de-murcia) - Aplicación web de checklist de cromos del Ciudad de Murcia CF.
 - [Checklist Real Murcia](https://github.com/Renilla/checklist-real-murcia) - Aplicación web de checklist de cromos del Real Murcia CF.
-- [DataUCAM 2025-26](https://github.com/DJordanV/DataUCAM2025-26) - Exploración analítica de la temporada 2025/26 de UCAM Murcia en la Liga Endesa.
 - [Contador Abonados Real Murcia](https://github.com/ManuelFranco/contadorAbonados) - Scraper visual de la cuenta de abonados del Real Murcia CF.
+- [DataUCAM 2025-26](https://github.com/DJordanV/DataUCAM2025-26) - Exploración analítica de la temporada 2025/26 de UCAM Murcia en la Liga Endesa.
 - [FBRM Analytics](https://github.com/vLorente/la-fede-teams-analytics) - Webscraping y análisis de datos de la Federación de Baloncesto de la Región de Murcia.
 
 ## Medio Ambiente y Mar Menor
@@ -120,14 +120,11 @@
 
 ## Universidad e Investigación
 
-- [Charla MCP](https://github.com/CenticMurcia/charla-mcp) - Material de la charla sobre Model Context Protocol impartida por CenticMurcia.
-- [Curso Ciencia de Datos](https://github.com/CenticMurcia/curso-ciencia-datos) - Curso de ciencia de datos del Centro Tecnológico de las TIC de la Región de Murcia.
 - [Data Science Python UPCT](https://github.com/mkesslerct/data_science_Python) - Curso de introducción a Data Science con Python de la UPCT.
 - [docxtojats-pipeline](https://github.com/editum/docxtojats-pipeline) - Conversión de documentos DOC/DOCX a JATS XML con automarcado avanzado para EDITUM de la Universidad de Murcia.
 - [HÉRCULES Ontology](https://github.com/weso/hercules-ontology) - Desarrollo y validación de la ontología del proyecto HÉRCULES de la Universidad de Murcia.
 - [HÉRCULES Sync](https://github.com/weso/hercules-sync) - Sincronización de ontologías con Wikibase para el proyecto HÉRCULES de infraestructura semántica de la Universidad de Murcia.
 - [JATSWizard](https://github.com/editum/JATSWizard) - Plugin OJS de asistente guiado de conversión de DOCX a JATS XML para EDITUM de la Universidad de Murcia.
-- [NLP Consentimientos Médicos](https://github.com/CenticMurcia/nlp-consentimientos-medicos) - Análisis de entendibilidad de consentimientos médicos mediante NLP por CenticMurcia.
 - [Plantilla TFG FIUM](https://github.com/AnaAguilarI/Plantilla-TFG-FIUM) - Plantilla LaTeX actualizada para trabajos de fin de grado de la Facultad de Informática de la UMU.
 - [Plantilla Tesis UMU](https://github.com/enriiquee/umu-thesis) - Plantilla LaTeX no oficial para tesis doctorales y TFM de la Universidad de Murcia.
 - [Sierra Minera Spatial Dataset](https://github.com/TabErrans/sierra-minera-spatial-dataset) - Pipeline reproducible de integración de datos espaciales de suelos de la Sierra Minera de Cartagena-La Unión.
@@ -158,7 +155,7 @@ Plastic:
 [![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=plastic&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNCAxNCI+PGcgZmlsbD0iI0ZGRDcwMCI+PHJlY3QgeD0iMCIgeT0iNCIgd2lkdGg9IjMiIGhlaWdodD0iMTAiLz48cmVjdCB4PSIwIiB5PSIyIiB3aWR0aD0iMSIgaGVpZ2h0PSIyIi8+PHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjEiIGhlaWdodD0iMiIvPjxyZWN0IHg9IjUiIHk9IjIiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIi8+PHJlY3QgeD0iNSIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMiIvPjxyZWN0IHg9IjgiIHk9IjAiIHdpZHRoPSIxIiBoZWlnaHQ9IjIiLz48cmVjdCB4PSIxMSIgeT0iNCIgd2lkdGg9IjMiIGhlaWdodD0iMTAiLz48cmVjdCB4PSIxMSIgeT0iMiIgd2lkdGg9IjEiIGhlaWdodD0iMiIvPjxyZWN0IHg9IjEzIiB5PSIyIiB3aWR0aD0iMSIgaGVpZ2h0PSIyIi8+PHJlY3QgeD0iMyIgeT0iOCIgd2lkdGg9IjIiIGhlaWdodD0iNiIvPjxyZWN0IHg9IjkiIHk9IjgiIHdpZHRoPSIyIiBoZWlnaHQ9IjYiLz48L2c+PC9zdmc+&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
 ```
 
-For the badge (large):
+For the badge (grande):
 ```markdown
 [![listed on awesome-region-de-murcia](https://img.shields.io/badge/listed%20on-awesome--region--de--murcia-FFD700?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNCAxNCI+PGcgZmlsbD0iI0ZGRDcwMCI+PHJlY3QgeD0iMCIgeT0iNCIgd2lkdGg9IjMiIGhlaWdodD0iMTAiLz48cmVjdCB4PSIwIiB5PSIyIiB3aWR0aD0iMSIgaGVpZ2h0PSIyIi8+PHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjEiIGhlaWdodD0iMiIvPjxyZWN0IHg9IjUiIHk9IjIiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIi8+PHJlY3QgeD0iNSIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMiIvPjxyZWN0IHg9IjgiIHk9IjAiIHdpZHRoPSIxIiBoZWlnaHQ9IjIiLz48cmVjdCB4PSIxMSIgeT0iNCIgd2lkdGg9IjMiIGhlaWdodD0iMTAiLz48cmVjdCB4PSIxMSIgeT0iMiIgd2lkdGg9IjEiIGhlaWdodD0iMiIvPjxyZWN0IHg9IjEzIiB5PSIyIiB3aWR0aD0iMSIgaGVpZ2h0PSIyIi8+PHJlY3QgeD0iMyIgeT0iOCIgd2lkdGg9IjIiIGhlaWdodD0iNiIvPjxyZWN0IHg9IjkiIHk9IjgiIHdpZHRoPSIyIiBoZWlnaHQ9IjYiLz48L2c+PC9zdmc+&labelColor=AD1519)](https://github.com/GeiserX/awesome-region-de-murcia#readme)
 ```
