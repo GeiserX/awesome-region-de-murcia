@@ -10,6 +10,11 @@ Repos que fueron retirados de la lista porque fueron archivados, deprecados o ya
 - [SIGM](https://github.com/carm-es/SIGM) - Sistema Integrado de Gestión Municipal de la CARM. Archivado.
 - [SIGM-docker](https://github.com/carm-es/SIGM-docker) - Docker para el SIGM de la CARM. Archivado.
 
+## Eliminados / No encontrados
+
+- [CMO SMS](https://github.com/iDoctor2000/CMO_SMS) - Cuadro de mandos de consultas realizadas por área y servicio del Servicio Murciano de Salud. Repositorio eliminado.
+- [UDI Portal](https://github.com/iDoctor2000/UDI-Portal) - Portal de interoperabilidad COMPAS para gestión de interconsultas entre las nueve áreas sanitarias del SMS. Repositorio eliminado.
+
 ## Deprecados
 
 ## No cumplen criterios
