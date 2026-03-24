@@ -62,12 +62,18 @@ Selección de software open source que da **soporte específico a la Región de 
 ## Formato de entrada
 
 ```markdown
+- [Nombre](https://github.com/owner/repo) [![Stars](...)](stargazers) [![Last Commit](...)](commits) [![Language](...)](repo) [![License](...)](LICENSE) [![Tag](...)](url) - Descripción que empieza en mayúscula y termina con punto.
+```
+
+Las insignias se generan automáticamente con `scripts/transform-readme.py`. Para contribuir, basta con añadir la entrada en formato simple:
+
+```markdown
 - [Nombre](https://github.com/owner/repo) - Descripción que empieza en mayúscula y termina con punto.
 ```
 
 - La descripción **no debe empezar con el nombre** del proyecto.
 - Máximo una línea por entrada.
-- Validar con awesome-lint: `npx awesome-lint`.
+- Validar con awesome-lint-extra: `python3 lint.py` o mediante el workflow de CI.
 - Entradas en **orden alfabético** dentro de cada categoría.
 - Categorías en **orden alfabético** en el índice y en el cuerpo del documento.
 - Entradas en `DELETED.md` también en **orden alfabético** dentro de cada sección.

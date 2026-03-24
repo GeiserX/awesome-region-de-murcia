@@ -25,10 +25,10 @@ Gracias por tu interés en contribuir. Esta selección crece gracias a la comuni
 - [Nombre](https://github.com/owner/repo) - Descripción que empieza en mayúscula y termina con punto.
 ```
 
-- La descripción **no debe empezar con el nombre** del proyecto (awesome-lint lo rechaza).
+- La descripción **no debe empezar con el nombre** del proyecto.
 - Máximo una línea por entrada.
 - Las descripciones deben estar en **español**.
-- Ejecuta `npx awesome-lint` antes de enviar tu PR para verificar que no hay errores.
+- Valida con `awesome-lint-extra` antes de enviar tu PR para verificar que no hay errores.
 
 ### Pull requests
 

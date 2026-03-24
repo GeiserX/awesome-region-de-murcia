@@ -1,0 +1,169 @@
+{
+"AnaAguilarI/Plantilla-TFG-FIUM": {"default_branch":"main","description":"Modificación de la plantilla original para TFs de la Facultad de Informática de la Universidad de Murcia (https://es.overleaf.com/latex/templates/plantilla-tfg-fium/tnckzznxktsr) de acuerdo con la nueva imagen corporativa de la universidad","homepage":"","language":"TeX","license":"","stargazers_count":1,"topics":[]}
+,
+"Antonio-MI/mar-menor-chl": {"default_branch":"main","description":"Repository for the paper \"Chlorophyll-a Mapping and Prediction in the Mar Menor Lagoon Using C2RCC-Processed Sentinel 2 Imagery\"","homepage":"","language":"Jupyter Notebook","license":"","stargazers_count":0,"topics":[]}
+,
+"AteneoMolinaDeSegura/jekyll": {"default_branch":"master","description":"Ateneo Molina de Segura web page","homepage":"","language":"HTML","license":"GPL-3.0","stargazers_count":4,"topics":[]}
+,
+"DJordanV/DataUCAM2025-26": {"default_branch":"main","description":"Exploración analítica de la temporada 2025/26 de UCAM Murcia en la Liga Endesa","homepage":"","language":"Jupyter Notebook","license":"MIT","stargazers_count":0,"topics":[]}
+,
+"GeiserX/awesome-region-de-murcia#readme": {"default_branch":"main","description":"Lista curada de software open source para la Región de Murcia","homepage":"","language":"","license":"CC0-1.0","stargazers_count":6,"topics":["awesome","awesome-list","murcia","open-source","region-de-murcia","spain"]}
+,
+"KikeOnRails/AppContadorAccionesRealMurcia": {"default_branch":"master","description":"Aplicación (y widget) para Android que muestra el dinero recaudado en tiempo real por la campaña #HazloSuyo del Real Murcia.","homepage":"","language":"Java","license":"","stargazers_count":0,"topics":[]}
+,
+"KikeOnRails/aeropuerto-bus-realtime": {"default_branch":"master","description":"Web que muestra los horarios y la geolocalización en tiempo real de la linea de autobús del Aeropuerto de Murcia.","homepage":"","language":"Vue","license":"","stargazers_count":2,"topics":[]}
+,
+"KikeOnRails/busmurcia-app": {"default_branch":"master","description":"App para Android que muestra los horarios en tiempo real de los autobuses de Murcia y pedanias.","homepage":"","language":"Kotlin","license":"","stargazers_count":6,"topics":[]}
+,
+"KikeOnRails/open-gtfs-planner": {"default_branch":"main","description":"🚍 Una herramienta de código abierto para la planificación del transporte público que permite visualizar y simular datos GTFS. Incluye un simulador en tiempo real para la posición de los vehículos y herramientas de optimización de horarios.","homepage":"","language":"Vue","license":"","stargazers_count":4,"topics":[]}
+,
+"ManuelFranco/contadorAbonados": {"default_branch":"main","description":"Scraper que lleva la cuenta de los abonados del Real Murcia y la muestra de manera visual","homepage":"","language":"HTML","license":"","stargazers_count":0,"topics":[]}
+,
+"MurciaDev/murcia-tech-hub": {"default_branch":"main","description":"📂 Listado de empresas con trabajos tecnológicos dentro de la Región de Murcia.","homepage":"","language":"JavaScript","license":"MIT","stargazers_count":9,"topics":[]}
+,
+"MurciaLab/ICA_Diario_2025": {"default_branch":"main","description":"","homepage":"","language":"Python","license":"MIT","stargazers_count":0,"topics":[]}
+,
+"MurciaLab/PMP": {"default_branch":"main","description":"","homepage":"http://proyectos.murcialab.org/","language":"","license":"","stargazers_count":3,"topics":[]}
+,
+"MurciaLab/basuraleza": {"default_branch":"main","description":"","homepage":"","language":"Python","license":"","stargazers_count":0,"topics":[]}
+,
+"MurciaLab/seguimiento": {"default_branch":"main","description":"","homepage":"https://murcialab.github.io/seguimiento/","language":"JavaScript","license":"","stargazers_count":0,"topics":[]}
+,
+"NataliaPmd/mar_menor_status": {"default_branch":"main","description":"","homepage":"","language":"Python","license":"","stargazers_count":2,"topics":[]}
+,
+"Paquicf/LULCMAP-MarMenor_Watershed": {"default_branch":"master","description":"Time-series of land-use / land-cover maps of Mar Menor watershed (SE Spain): 2009, 2000, 1997 y 1998. As well as the complete thesis document in which they were generated and analyzed.","homepage":"","language":"QML","license":"","stargazers_count":3,"topics":[]}
+,
+"Raniita/Ocean-CTD": {"default_branch":"master","description":"Oceanography CTD used and design by UPCT Mar Menor research group","homepage":"https://ocean.upct.es/","language":"C++","license":"MIT","stargazers_count":1,"topics":[]}
+,
+"Remdeht/ia_detector": {"default_branch":"master","description":"","homepage":"","language":"Jupyter Notebook","license":"MIT","stargazers_count":2,"topics":[]}
+,
+"Renilla/checklist-cb-murcia": {"default_branch":"main","description":"","homepage":"","language":"JavaScript","license":"","stargazers_count":0,"topics":[]}
+,
+"Renilla/checklist-ciudad-de-murcia": {"default_branch":"main","description":"","homepage":"","language":"JavaScript","license":"","stargazers_count":0,"topics":[]}
+,
+"Renilla/checklist-real-murcia": {"default_branch":"main","description":"Checklist Cromos Real Murcia","homepage":"","language":"JavaScript","license":"","stargazers_count":0,"topics":[]}
+,
+"SMARTLAGOON/SMLG_AlLoRa": {"default_branch":"main","description":"Modular, mesh and multi-device Advanced LoRa Content Transfer Protocol","homepage":"","language":"Python","license":"GPL-3.0","stargazers_count":13,"topics":[]}
+,
+"SMARTLAGOON/SMLG_Buoy_Data": {"default_branch":"master","description":"This repository contains high-frequency environmental monitoring data from the SMARTLAGOON Buoy, deployed in the Mar Menor coastal lagoon. It includes hourly and daily measurements of water quality and meteorological parameters, supporting hydrodynamic modeling, ecological research, and policy-making.","homepage":"","language":"","license":"","stargazers_count":2,"topics":[]}
+,
+"SMARTLAGOON/SMLG_CPR": {"default_branch":"main","description":"This repository presents the Colour Pattern Regression (CPR) algorithm QGIS3 plugin. The code determines the relationship between aerial images and raster maps according to the decomposition into RGB spaces of the aerial images and the calculation of a linear regression with the raster map using three coefficients - one for each RGB space.","homepage":"","language":"Python","license":"GPL-2.0","stargazers_count":0,"topics":["environmental-monitoring","gdal-python","interpolation-methods","python","qgis3-plugin","remotesensing","spatial-analysis"]}
+,
+"SMARTLAGOON/SMLG_EC-T_Track": {"default_branch":"main","description":"Environmental and water quality monitoring are of utmost interest in a context where land use changes, uncontrolled agricultural practices, human settlements, tourism and other activities affect a watershed and condition the usage of their surface waters. Such is the case of the Mar Menor lagoon in Southeast of Spain, where the EU H2020 SMARTLAGOON project stands and is implementing an intelligent environmental infrastructure and modelling that will let the construction of a digital-twin of the lagoon. Environmental monitoring generally requires of big funding and that limits the number of monitoring points and data available. For this reason, we have developed a low-cost monitoring system that can be integrated in a small-sized buoy and attached to fishing and recreational boats allowing citizens to gather water quality information – i.e. electrical conductivity and temperature – with the use of their smartphones. The usage of such devices could lead to key stakeholder engagement and citizen science activities that could enrich and ease the data gathering process. ","homepage":"","language":"Java","license":"GPL-2.0","stargazers_count":0,"topics":[]}
+,
+"SMARTLAGOON/SMLG_GIS_SERVER": {"default_branch":"main","description":"The EU H2020 SMARTLAGOON project requires the review and adaptation of publicly available information, most of which correspond with georeferenced data. In such a context, we have implemented a GeoServer to gather and consult the data and an OpenLayers fronted to show them in a Web repository.","homepage":"","language":"JavaScript","license":"GPL-2.0","stargazers_count":0,"topics":[]}
+,
+"SMARTLAGOON/SMLG_RemoteSensingSoftware": {"default_branch":"main","description":"This repo contains remote sensing software developed in SMARTLAGOON project.","homepage":"","language":"Python","license":"","stargazers_count":1,"topics":[]}
+,
+"SoniaRuiz/marine-forecast": {"default_branch":"main","description":"Bringing you the marine forecast for the coastal areas of Torrevieja, La Manga and Cartagena, Spain.","homepage":"","language":"JavaScript","license":"Apache-2.0","stargazers_count":0,"topics":["api-rest","cordova-android","cordova-plugin","html5","stormglass"]}
+,
+"TabErrans/sierra-minera-spatial-dataset": {"default_branch":"main","description":"Spatial data integration pipeline for soil samples from the Sierra Minera (Cartagena–La Unión mining district).","homepage":"","language":"R","license":"GPL-3.0","stargazers_count":0,"topics":[]}
+,
+"aconesac/molino-lo-negrete": {"default_branch":"main","description":"Sitio web para la restauración y difusión del Molino de Viento Lo Negrete (Cartagena, Murcia). Incluye historia, galería fotográfica, documentación técnica y detalles del proyecto de restauración y futuro museo rural.","homepage":"","language":"HTML","license":"GPL-3.0","stargazers_count":1,"topics":[]}
+,
+"allepuzz/Mar-Menor-Health-Predictor": {"default_branch":"main","description":"This was my end-of-degree proyect! I built a predictor for concentrations of several micronutrients to try to, one understand what was happening to my childhood's beach lagoon and two, its future's health. This proyect involved: Data Cleaning and structuring and  th implementation of ML algorithms architectures (LR, Random Forest, ARIMA, SARIMA).","homepage":"","language":"Python","license":"","stargazers_count":1,"topics":[]}
+,
+"arp-devs/wordle-panocho": {"default_branch":"master","description":"wordle en panocho","homepage":"https://wordle-panocho.vercel.app","language":"JavaScript","license":"","stargazers_count":0,"topics":[]}
+,
+"carm-es/BORM": {"default_branch":"main","description":"","homepage":"","language":"Java","license":"AGPL-3.0","stargazers_count":0,"topics":[]}
+,
+"carm-es/chatbot-eoi": {"default_branch":"main","description":"","homepage":"","language":"Python","license":"","stargazers_count":0,"topics":[]}
+,
+"carm-es/csvstorage": {"default_branch":"develop","description":"Proyecto para la instalación y desarrollo evolutivo de la versión distribuible de CSV Storage del Centro de Transferencia Tecnológica: https://administracionelectronica.gob.es/ctt/inside","homepage":"","language":"Java","license":"EUPL-1.1","stargazers_count":4,"topics":[]}
+,
+"carm-es/eeutil-firma": {"default_branch":"master","description":"Instalación y evolutivo de la versión distribuible de Eeutil-Firma.","homepage":"","language":"Java","license":"EUPL-1.1","stargazers_count":0,"topics":[]}
+,
+"carm-es/eeutil-igae": {"default_branch":"master","description":"","homepage":"","language":"XSLT","license":"","stargazers_count":0,"topics":[]}
+,
+"carm-es/eeutil-misc": {"default_branch":"master","description":"","homepage":"","language":"XSLT","license":"","stargazers_count":0,"topics":[]}
+,
+"carm-es/eeutil-oper-firma": {"default_branch":"master","description":"Eeutil-Oper-Firma","homepage":"","language":"Java","license":"","stargazers_count":0,"topics":[]}
+,
+"carm-es/eeutil-pdfatols": {"default_branch":"master","description":"","homepage":"","language":"Java","license":"","stargazers_count":0,"topics":[]}
+,
+"carm-es/eeutil-shared": {"default_branch":"master","description":"Eeutil-Shared contiene los módulos necesarios para los distintos componentes del proyecto Eeutil de la AGE","homepage":"","language":"Java","license":"EUPL-1.1","stargazers_count":0,"topics":[]}
+,
+"carm-es/eeutil-util-firma": {"default_branch":"master","description":"eeutil-util-firma es un servicio web pensado para obtener CSVs a partir de firmas o justificantes de firmas","homepage":"","language":"Java","license":"EUPL-1.1","stargazers_count":0,"topics":[]}
+,
+"carm-es/eeutil-vis-docexp": {"default_branch":"master","description":"","homepage":"","language":"Java","license":"","stargazers_count":0,"topics":[]}
+,
+"carm-es/guias": {"default_branch":"master","description":"Guias para el desarrollo de aplicaciones en la CARM","homepage":"","language":"Java","license":"GPL-3.0","stargazers_count":8,"topics":[]}
+,
+"carm-es/inside": {"default_branch":"develop","description":"Instalación y evolutivo de la versión distribuible de InSiDE (Infraestructura y Sistemas de Documentación Electrónica)","homepage":"","language":"Java","license":"EUPL-1.1","stargazers_count":5,"topics":[]}
+,
+"carm-es/rest-ldap": {"default_branch":"master","description":"Aplicación Web para la consulta de usuarios en OpenLDAP a través de un servicio REST","homepage":"","language":"Java","license":"","stargazers_count":0,"topics":["java","jersey","ldap","rest"]}
+,
+"carm-es/sandra": {"default_branch":"main","description":"Manual de Sandra","homepage":"","language":"","license":"","stargazers_count":0,"topics":[]}
+,
+"clotitec/vias-verdes-murcia": {"default_branch":"master","description":"Vías Verdes de Murcia - Interactive cycling greenways map app","homepage":"https://vias-verdes-murcia.vercel.app","language":"HTML","license":"","stargazers_count":0,"topics":[]}
+,
+"ealvarez-s/Eco3M-MAR_MENOR": {"default_branch":"main","description":"CODE and REGION to run SYMPHONIE-Eco3M offline in the Mar Menor lagoon","homepage":"","language":"Fortran","license":"","stargazers_count":1,"topics":[]}
+,
+"editum/JATSWizard": {"default_branch":"main","description":"OJS Plugin Wizard to Interface with a DOC-to-JATS Conversion Pipeline","homepage":"","language":"PHP","license":"GPL-2.0","stargazers_count":4,"topics":["editoriales-universitarias","editum","ojs","plugin","universidad-de-murcia","xml-jats"]}
+,
+"editum/docxtojats-pipeline": {"default_branch":"main","description":"Tool for converting DOC/DOCX documents to JATS XML with advanced automarking ","homepage":"","language":"XSLT","license":"GPL-2.0","stargazers_count":3,"topics":["editoriales-universitarias","editum","ojs","plugin","universidad-de-murcia","xml-jats"]}
+,
+"edumardo/covid19-carm": {"default_branch":"master","description":"Dataset de la COVID-19 en la Región de Murcia","homepage":"","language":"Python","license":"GPL-3.0","stargazers_count":3,"topics":["covid","covid-19","covid-data","dataset","murcia","spain"]}
+,
+"enriiquee/umu-thesis": {"default_branch":"main","description":"","homepage":"","language":"TeX","license":"","stargazers_count":6,"topics":[]}
+,
+"ffis/sici": {"default_branch":"master","description":"SICI CARM","homepage":"","language":"JavaScript","license":"","stargazers_count":2,"topics":["carm","dashboard","javascript","mongodb","murcia","nodejs"]}
+,
+"fterroso/mobility_murcia_umu_ucam": {"default_branch":"master","description":"","homepage":"","language":"Jupyter Notebook","license":"","stargazers_count":1,"topics":[]}
+,
+"iDoctor2000/CMO_SMS": {"error": true}
+,
+"iDoctor2000/PUMA": {"default_branch":"main","description":"Cuadro de mandos urgencias a tiempo real","homepage":"","language":"HTML","license":"","stargazers_count":0,"topics":[]}
+,
+"iDoctor2000/SRNI": {"default_branch":"main","description":"App Soporte Respiratorio No Invasivo","homepage":"","language":"Python","license":"","stargazers_count":0,"topics":[]}
+,
+"iDoctor2000/UDI-Portal": {"error": true}
+,
+"iDoctor2000/surgeryobesity": {"default_branch":"main","description":"Surgery Obesity","homepage":"","language":"HTML","license":"","stargazers_count":1,"topics":[]}
+,
+"javics2002/TheExplorer": {"default_branch":"main","description":"Explore la Cañaica del Calar like never before and uncover the secrets its cave paintings hide! Made as part of my research project Game at the Museum in baccalaureate.","homepage":"https://sites.google.com/view/javier-cano/portfolio","language":"C#","license":"Apache-2.0","stargazers_count":1,"topics":["cave-art","educational-game","murcia"]}
+,
+"jcuervom/jc000001-lotify": {"default_branch":"main","description":"Bot de Telegram que monitorea los lotes en Extranjería Murcia y notifica cuando se alcanza o supera un lote específico.","homepage":"","language":"Python","license":"","stargazers_count":0,"topics":[]}
+,
+"jjgonde/Alicante-Murcia-SUMO-Scenario": {"default_branch":"master","description":"Calibrated Alicante-Murcia Freeway SUMO Scenario","homepage":"","language":"","license":"MIT","stargazers_count":11,"topics":[]}
+,
+"jmlweb/murciasolidaria": {"default_branch":"master","description":"Aplicación web para gestionar solicitudes de pantallas protectoras","homepage":"http://murciasolidaria.com","language":"JavaScript","license":"GPL-3.0","stargazers_count":9,"topics":[]}
+,
+"jmlweb/playasmurcia": {"default_branch":"main","description":"Listado de playas de la Región de Murcia","homepage":"https://playasmurcia.com","language":"TypeScript","license":"","stargazers_count":24,"topics":["nextjs13","radix-ui","tailwindcss"]}
+,
+"juanfranciscomanzanares/aquasense-cloud": {"default_branch":"main","description":"🌊 Plataforma serverless en AWS para la monitorización de temperatura del Mar Menor. Lambda · DynamoDB · SNS · ECS/Docker · CloudFormation | Proyecto ICAP — UMU","homepage":"","language":"Python","license":"","stargazers_count":0,"topics":[]}
+,
+"klaufel/murcianipsum": {"default_branch":"main","description":"An awesome `lorem ipsum` generator based in Murcian dialect 🍋.","homepage":"https://murcianipsum.vercel.app","language":"JavaScript","license":"MIT","stargazers_count":1,"topics":["lorem-ipsum-generator","murcia"]}
+,
+"lucyleia28/AvistamientosAvesMarMenor": {"default_branch":"main","description":"Plugin de web aumentada para Wikipedia que introduce una nueva sección con los avistamientos de aves registrados en el mar Menor, y proporciona gráficas de datos abiertos sobre el estado de las aguas.","homepage":"","language":"JavaScript","license":"AGPL-3.0","stargazers_count":0,"topics":[]}
+,
+"mariete1223/MarMenor": {"default_branch":"main","description":"NGSI-LD","homepage":"","language":"Jupyter Notebook","license":"","stargazers_count":0,"topics":[]}
+,
+"marsolmos/transparencia-carm": {"default_branch":"main","description":"Transparency tool for public contracts from Region de Murcia´s Government","homepage":"","language":"Jupyter Notebook","license":"MIT","stargazers_count":0,"topics":[]}
+,
+"mgonzalezg9/PyBici": {"default_branch":"master","description":"PyBici is a Python script that provides valuable information about the Murcia's bike sharing system","homepage":"","language":"Python","license":"","stargazers_count":0,"topics":["api-rest","cronjob","python"]}
+,
+"mkesslerct/data_science_Python": {"default_branch":"main","description":"Un curso de introducción a Data science con Python, impartido en la Escuela Técnica Superior de Ingeniería de Telecomunicaciones de la Universidad Politécnica de Cartagena","homepage":"","language":"HTML","license":"","stargazers_count":8,"topics":["data-science","python","python3"]}
+,
+"modelum/uschema": {"default_branch":"main","description":"Public repository of the U-Schema unified metamodel","homepage":"","language":"Java","license":"","stargazers_count":1,"topics":[]}
+,
+"pedrosc1967/diccionario_panocho": {"default_branch":"master","description":"Un diccionario de panocho","homepage":"","language":"Dart","license":"","stargazers_count":3,"topics":[]}
+,
+"ppavon/smartEcoRutas": {"default_branch":"main","description":"Reto-UPCT SmartEcoRutas: Optimización algorítmica de rutas de recogida de residuos urbanos en Cartagena","homepage":"","language":"Python","license":"NOASSERTION","stargazers_count":0,"topics":[]}
+,
+"rubmoyanop/lost-frequencies-nasa-space-apps-challenge-2025": {"default_branch":"main","description":"NASA Space Apps Challenge 2025 local winner. Uses Sentinel-1/2 data and an interactive viewer to map pollution sources, unauthorized agriculture, and flood risk in the Mar Menor (Spain).","homepage":"","language":"Jupyter Notebook","license":"","stargazers_count":2,"topics":["data-science","geospatial-visualization","jupyter-notebook","leaflet","mar-menor","nasa-space-apps-challenge-2025","python","react","sentinel"]}
+,
+"samuelSART/hydrotwin-v2": {"default_branch":"main","description":"","homepage":"","language":"Vue","license":"","stargazers_count":0,"topics":[]}
+,
+"vLorente/la-fede-teams-analytics": {"default_branch":"master","description":"Webscraping y análisis de datos de la web de la federación murciana de baloncesto.","homepage":"","language":"Python","license":"","stargazers_count":0,"topics":["api","fastapi","jupyter-notebook","pandas","python","scrapy","sqlite3","webscraping"]}
+,
+"victoskyct/shiny_rutas_ct": {"default_branch":"main","description":"Rutas de Cartagena para consultar y descargar","homepage":"","language":"R","license":"","stargazers_count":0,"topics":[]}
+,
+"weso/hercules-ontology": {"default_branch":"master","description":"Development of the Ontology and its Continuos Integration for the Hercules project.","homepage":"https://herculescrue.github.io/ib-hercules-ontology/current/asio.html","language":"Turtle","license":"GPL-3.0","stargazers_count":1,"topics":["asio","hercules-ontology","ontology","owl"]}
+,
+"weso/hercules-sync": {"default_branch":"master","description":"Tools to synchronise data between the ontology files and Wikibase instance for the Hercules project at University of Murcia.","homepage":"","language":"Python","license":"GPL-3.0","stargazers_count":4,"topics":["asio","ontology","rdf","semantic-web","wikibase"]}
+,
+"yuye188/ML_ET0_Spain": {"default_branch":"main","description":"","homepage":"","language":"Jupyter Notebook","license":"","stargazers_count":1,"topics":[]}
+,
+"yuye188/MarMenorDigitalTwin": {"default_branch":"main","description":"","homepage":"","language":"Jupyter Notebook","license":"","stargazers_count":1,"topics":[]}
+}
