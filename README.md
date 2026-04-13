@@ -162,7 +162,7 @@ For the badge (grande):
 
 ## Contribuir
 
-Las contribuciones son bienvenidas. Lee las [directrices de contribución](contributing.md) antes de enviar un pull request.
+Las contribuciones bienvenidas. Lee las [directrices de contribución](contributing.md) antes de enviar un pull request.
 
 ## Nota
 
