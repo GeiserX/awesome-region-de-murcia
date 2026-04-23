@@ -1,0 +1,9 @@
+# LICENSE file links — repos without a LICENSE file at the expected path
+# The shields.io license badge still works via GitHub API
+https://github.com/.*/blob/.*/LICENSE.*
+
+# External sites that block automated link checkers or are intermittently down
+https://marmenor.carm.es/
+https://murcialab.com/
+https://sede.administracionespublicas.gob.es/
+https://www.molinadesegura.es/
