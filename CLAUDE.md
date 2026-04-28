@@ -1,4 +1,4 @@
-# AGENTS.md — awesome-region-de-murcia
+# CLAUDE.md — awesome-region-de-murcia
 
 ## Propósito
 
