@@ -1,0 +1,20 @@
+<!-- The largest lemon of the branch at the top right of docs/images/banner.svg
+     (paths filled with cLemon and cLemonShade, its highlight and its calyx),
+     with the cLeaf0 leaf that sits on its stem. Shapes, positions and colours
+     are the banner's own. Changed: gradient ids take the aw- prefix, and the
+     leaf vein goes from 0.7 to 2 units so it survives at header size. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="713 60 79 79" width="79" height="79" role="img" aria-label="Awesome Región de Murcia">
+  <defs>
+    <radialGradient id="aw-lemon" cx="38%" cy="32%" r="75%"><stop offset="0%" stop-color="#fff08a"/><stop offset="45%" stop-color="#f6d23c"/><stop offset="100%" stop-color="#d49a1c"/></radialGradient>
+    <linearGradient id="aw-lemonShade" x1="0" y1="0" x2="0" y2="1"><stop offset="55%" stop-color="#8a5a10" stop-opacity="0"/><stop offset="100%" stop-color="#8a5a10" stop-opacity="0.35"/></linearGradient>
+    <linearGradient id="aw-leaf0" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#6e9a4a"/><stop offset="100%" stop-color="#2f5a2c"/></linearGradient>
+  </defs>
+  <g>
+    <path d="M750.0,74.0 C751.6,65.8 764.0,61.9 772.6,65.8 C768.4,73.9 756.4,78.9 750.0,74.0Z" fill="url(#aw-leaf0)"/>
+    <path d="M750.0,74.0 Q761.1,69.3 771.0,66.4" fill="none" stroke="#b9d98a" stroke-width="2" stroke-linecap="round" opacity="0.45"/>
+    <path d="M752.0,137.6 C753.4,135.8 756.0,133.8 758.0,131.9 C768.0,129.0 772.0,120.8 772.0,108.0 C772.0,93.9 768.0,84.9 760.0,83.6 C756.0,82.4 754.0,81.0 752.0,81.0 C750.0,81.0 748.0,82.4 744.0,83.6 C736.0,84.9 732.0,93.9 732.0,108.0 C732.0,120.8 736.0,129.0 746.0,131.9 C748.0,133.8 750.6,135.8 752.0,137.6Z" fill="url(#aw-lemon)"/>
+    <path d="M752.0,137.6 C753.4,135.8 756.0,133.8 758.0,131.9 C768.0,129.0 772.0,120.8 772.0,108.0 C772.0,93.9 768.0,84.9 760.0,83.6 C756.0,82.4 754.0,81.0 752.0,81.0 C750.0,81.0 748.0,82.4 744.0,83.6 C736.0,84.9 732.0,93.9 732.0,108.0 C732.0,120.8 736.0,129.0 746.0,131.9 C748.0,133.8 750.6,135.8 752.0,137.6Z" fill="url(#aw-lemonShade)"/>
+    <ellipse cx="761.0" cy="102.9" rx="8.7" ry="3.0" transform="rotate(90.0 761.0 102.9)" fill="#fff6c8" opacity="0.5"/>
+    <circle cx="752.0" cy="81.2" r="2.8" fill="#6f8a3a"/>
+  </g>
+</svg>
