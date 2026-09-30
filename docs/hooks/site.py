@@ -18,6 +18,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 ENTRY = re.compile(r"^- \[[^\]]+\]\(https?://")
+# DELETED.md also lists repos that no longer exist as "- `owner/repo` - reason", with no link:
+# they are retired projects too and count as such.
+RETIRED = re.compile(r"^- (?:\[[^\]]+\]\(https?://|`[^`]+` - )")
 H2 = re.compile(r"^## (.+)$")
 NOT_CATEGORIES = {
     "Contenido",
@@ -55,7 +58,7 @@ def _counts():
     return {
         "proyectos": proyectos,
         "categorias": len(categories),
-        "retirados": sum(is_entry for _, is_entry in _entries_by_section(deleted)),
+        "retirados": sum(1 for line in deleted.splitlines() if RETIRED.match(line)),
     }
 
 
