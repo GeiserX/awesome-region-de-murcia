@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "murcia",
+  "project_id": "980e5f17-5df1-4b67-bb74-b5bb810421fc"
+}
