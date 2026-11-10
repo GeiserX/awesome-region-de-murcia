@@ -97,8 +97,6 @@
 ,
 "clotitec/vias-verdes-murcia": {"default_branch":"master","description":"Vías Verdes de Murcia - Interactive cycling greenways map app","homepage":"https://vias-verdes-murcia.vercel.app","language":"HTML","license":"","stargazers_count":0,"topics":[]}
 ,
-"ealvarez-s/Eco3M-MAR_MENOR": {"default_branch":"main","description":"CODE and REGION to run SYMPHONIE-Eco3M offline in the Mar Menor lagoon","homepage":"","language":"Fortran","license":"","stargazers_count":1,"topics":[]}
-,
 "editum/JATSWizard": {"default_branch":"main","description":"OJS Plugin Wizard to Interface with a DOC-to-JATS Conversion Pipeline","homepage":"","language":"PHP","license":"GPL-2.0","stargazers_count":4,"topics":["editoriales-universitarias","editum","ojs","plugin","universidad-de-murcia","xml-jats"]}
 ,
 "editum/docxtojats-pipeline": {"default_branch":"main","description":"Tool for converting DOC/DOCX documents to JATS XML with advanced automarking ","homepage":"","language":"XSLT","license":"GPL-2.0","stargazers_count":3,"topics":["editoriales-universitarias","editum","ojs","plugin","universidad-de-murcia","xml-jats"]}

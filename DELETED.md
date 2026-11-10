@@ -14,6 +14,7 @@ Repos que fueron retirados de la lista porque fueron archivados, deprecados o ya
 
 - [CMO SMS](https://github.com/iDoctor2000/CMO_SMS) - Cuadro de mandos de consultas realizadas por área y servicio del Servicio Murciano de Salud. Repositorio eliminado.
 - [UDI Portal](https://github.com/iDoctor2000/UDI-Portal) - Portal de interoperabilidad COMPAS para gestión de interconsultas entre las nueve áreas sanitarias del SMS. Repositorio eliminado.
+- [Eco3M-MAR_MENOR](https://github.com/ealvarez-s/Eco3M-MAR_MENOR) - Código y región para ejecutar el modelo biogeoquímico SYMPHONIE-Eco3M en la laguna del Mar Menor. Repositorio eliminado o privado (GitHub devuelve 404).
 
 ## Deprecados
 
